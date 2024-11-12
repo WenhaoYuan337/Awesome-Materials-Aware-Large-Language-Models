@@ -107,7 +107,7 @@
 | [ChatMOF](https://www.nature.com/articles/s41467-024-48998-4)                           | GPT-4, GPT-3.5            | MOF                                        | 2024.06         |
 | [CrystalLLM (Antunes et al.)](https://arxiv.org/abs/2307.04340)       | Transformer-based         | Rutiles, spinels, pyrochlores              | 2024.02         |
 | [GPTChem](https://www.nature.com/articles/s42256-023-00788-1)                           | GPT-3                     | Organic molecule                           | 2024.02         |
-| GPT Linker Designer               | GPT-3.5                   | MOF Linker                                 | 2023.12         |
+| [GPT Linker Designer](https://pubs.acs.org/doi/10.1021/jacs.3c12086)               | GPT-3.5                   | MOF Linker                                 | 2023.12         |
 | [DARWIN](https://arxiv.org/abs/2308.13565)                            | LLaMA-7B                  | MOF                                        | 2023.08         |
 | [Text+Chem T5](https://arxiv.org/abs/2301.12586)                      | T5                        | Inorganic                                  | 2023.02         |
 | [MolT5](https://arxiv.org/abs/2204.11817)                             | T5                        | Inorganic                                  | 2022.11         |
