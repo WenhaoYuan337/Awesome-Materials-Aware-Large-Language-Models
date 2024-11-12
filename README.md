@@ -13,7 +13,7 @@
 
 
 ## 🔍 Applications Overview 
-_sort by date_
+Sort by date
 
 > ### 📑 Data Extraction
 > LLMs for data extraction can process text, images, tables, and graphs from scientific literature, converting unstructured information into structured data, which is essential for building comprehensive materials databases.
