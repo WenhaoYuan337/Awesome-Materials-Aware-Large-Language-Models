@@ -84,7 +84,7 @@
 | [DARWIN](https://arxiv.org/abs/2308.13565)                            | LLaMA-7B                  | Thermoelectric                             | 2023.08         |
 | [GIMLET](https://arxiv.org/abs/2306.13089)                            | T5                        | Thermoelectric                             | 2023.08         |
 | [MolRoPE-BERT](https://www.sciencedirect.com/science/article/pii/S1093326322002236)                      | T5                        | Organic molecule                           | 2023.07         |
-| BERTOS                            | BERT                      | Inorganic                                  | 2022.11         |
+| [BERTOS](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301011)                            | BERT                      | Inorganic                                  | 2022.11         |
 | [SolvBERT](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00107a)                          | BERT                      | Solvent                                    | 2022.10         |
 | [PolyBERT](https://www.nature.com/articles/s41467-023-39868-6)                          | DeBERTa                   | Polymer                                    | 2022.09         |
 | [ChemBERTa](https://arxiv.org/abs/2010.09885)                         | RoBERTa                   | Organic molecule                           | 2022.08         |
@@ -100,24 +100,24 @@
 
 | **Name**                          | **Models**                | **Material Types**                         | **Release Date** |
 |-----------------------------------|---------------------------|--------------------------------------------|------------------|
-| ChatMol                           | T5                        | MOF                                        | 2024.09         |
-| MatterGPT                         | Customized GPT            | Crystalline Solids                         | 2024.08         |
-| MOLLEO                            | GPT-4, T5                 | Organic molecule                           | 2024.07         |
-| AtomGPT                           | GPT-2                     | Crystalline Solids                         | 2024.06         |
-| ChatMOF                           | GPT-4, GPT-3.5            | MOF                                        | 2024.06         |
-| CrystalLLM (Antunes et al.)       | Transformer-based         | Rutiles, spinels, pyrochlores              | 2024.02         |
-| GPTChem                           | GPT-3                     | Organic molecule                           | 2024.02         |
+| [ChatMol](https://academic.oup.com/bioinformatics/article/40/9/btae534/7747661)                           | T5                        | MOF                                        | 2024.09         |
+| [MatterGPT](https://arxiv.org/abs/2408.07608)                         | Customized GPT            | Crystalline Solids                         | 2024.08         |
+| [MOLLEO](https://arxiv.org/abs/2406.16976)                            | GPT-4, T5                 | Organic molecule                           | 2024.07         |
+| [AtomGPT](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c01126)                           | GPT-2                     | Crystalline Solids                         | 2024.06         |
+| [ChatMOF](https://www.nature.com/articles/s41467-024-48998-4)                           | GPT-4, GPT-3.5            | MOF                                        | 2024.06         |
+| [CrystalLLM (Antunes et al.)](https://arxiv.org/abs/2307.04340)       | Transformer-based         | Rutiles, spinels, pyrochlores              | 2024.02         |
+| [GPTChem](https://www.nature.com/articles/s42256-023-00788-1)                           | GPT-3                     | Organic molecule                           | 2024.02         |
 | GPT Linker Designer               | GPT-3.5                   | MOF Linker                                 | 2023.12         |
-| DARWIN                            | LLaMA-7B                  | MOF                                        | 2023.08         |
-| Text+Chem T5                      | T5                        | Inorganic                                  | 2023.02         |
-| MolTS                             | T5                        | Inorganic                                  | 2022.11         |
-| MT-GPT                            | GPT                       | Inorganic                                  | 2022.10         |
-| MT-GPT2                           | GPT-2                     | Inorganic                                  | 2022.10         |
-| MT-GPTNeo                         | GPT-Neo                   | Inorganic                                  | 2022.10         |
-| MT-GPTJ                           | GPT-J                     | Inorganic                                  | 2022.10         |
-| MT-BART                           | BART                      | Inorganic                                  | 2022.10         |
-| MT-RoBERTa                        | RoBERTa                   | Inorganic                                  | 2022.10         |
-| MolGPT                            | Customized GPT            | Organic molecule                           | 2021.10         |
+| [DARWIN](https://arxiv.org/abs/2308.13565)                            | LLaMA-7B                  | MOF                                        | 2023.08         |
+| [Text+Chem T5](https://arxiv.org/abs/2301.12586)                      | T5                        | Inorganic                                  | 2023.02         |
+| [MolT5](https://arxiv.org/abs/2204.11817)                             | T5                        | Inorganic                                  | 2022.11         |
+| [MT-GPT](https://arxiv.org/abs/2206.13578)                            | GPT                       | Inorganic                                  | 2022.10         |
+| [MT-GPT2](https://arxiv.org/abs/2206.13578)                           | GPT-2                     | Inorganic                                  | 2022.10         |
+| [MT-GPTNeo](https://arxiv.org/abs/2206.13578)                         | GPT-Neo                   | Inorganic                                  | 2022.10         |
+| [MT-GPTJ](https://arxiv.org/abs/2206.13578)                           | GPT-J                     | Inorganic                                  | 2022.10         |
+| [MT-BART](https://arxiv.org/abs/2206.13578)                           | BART                      | Inorganic                                  | 2022.10         |
+| [MT-RoBERTa](https://arxiv.org/abs/2206.13578)                        | RoBERTa                   | Inorganic                                  | 2022.10         |
+| [MolGPT](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600)                            | Customized GPT            | Organic molecule                           | 2021.10         |
 
 ---
 
@@ -126,13 +126,13 @@
 
 | **Name**                          | **Models**                | **Material Types**                         | **Release Date** |
 |-----------------------------------|---------------------------|--------------------------------------------|------------------|
-| CSLLM                             | LLaMA-7B                  | Crystal                                    | 2024.07         |
-| SynthGPT                          | GPT-3.5, GPT-4            | Inorganic                                  | 2024.04         |
-| ReactionT5                        | T5                        | Organic                                    | 2023.03         |
-| MatChat                           | LLaMA2                    | Inorganic                                  | 2023.10         |
-| GPT Chemistry Assistant           | GPT-3.5, GPT-4            | MOF                                        | 2023.08         |
-| TSChem                            | T5                        | Organic                                    | 2022.03         |
-| ChemFormer                        | BART                      | Organic                                    | 2022.01         |
+| [CSLLM](https://arxiv.org/abs/2407.07016)                             | LLaMA-7B                  | Crystal                                    | 2024.07         |
+| [SynthGPT](https://pubs.acs.org/doi/10.1021/jacs.4c05840)                          | GPT-3.5, GPT-4            | Inorganic                                  | 2024.04         |
+| [ReactionT5](https://arxiv.org/abs/2311.06708)                        | T5                        | Organic                                    | 2023.03         |
+| [MatChat](https://arxiv.org/abs/2310.07197)                           | LLaMA2                    | Inorganic                                  | 2023.10         |
+| [GPT Chemistry Assistant](https://pubs.acs.org/doi/10.1021/jacs.3c05819)           | GPT-3.5, GPT-4            | MOF                                        | 2023.08         |
+| [T5Chem](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01467)                            | T5                        | Organic                                    | 2022.03         |
+| [ChemFormer](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb)                        | BART                      | Organic                                    | 2022.01         |
 
 ---
 
@@ -141,16 +141,16 @@
 
 | **Name**                          | **Models**                | **Material Types**                         | **Release Date** |
 |-----------------------------------|---------------------------|--------------------------------------------|------------------|
-| ChemAgents                        | Llama-3-70B               | Literature reader, experiments designer, robot operator, computation performer | 2024.07         |
-| LLMatDesign                       | GPT-4o                    | Data acquisition and filtering, integrated simulations, data analysis and visualization | 2024.06         |
-| MicroGPT                          | GPT-4                     | -                                          | 2024.05         |
-| ChatGPT Research Group            | GPT-4                     | Synthesis conditions extraction, code generation, research planning, and procedural guidance | 2023.11         |
-| GPT-Lab                           | GPT-4                     | Requirements analysis, literature retrieval, text mining, human researcher feedback, experiment execution | 2023.09         |
-| AtomAgents                        | GPT-4                     | Automatic robotic experiments              | 2023.07         |
-| CREST                             | GPT-3.5                   | -                                          | 2023.07         |
-| GPT-4 Reticular Chemist           | GPT-4                     | Project overview, progress summary, propose task choices, evaluation | 2023.06         |
-| ChemCrow                          | GPT-4                     | Synthesis execution                        | 2023.04         |
-| Coscientist                       | GPT-4                     | Web and documentation search, code execution | 2023.03         |
+| [ChemAgents](https://chemrxiv.org/engage/chemrxiv/article-details/66a8c11bc9c6a5c07a7a59c0)                        | Llama-3-70B               | Literature reader, experiments designer, robot operator, computation performer | 2024.07         |
+| [LLMatDesign](https://arxiv.org/abs/2406.13163)                       | GPT-4o                    | Data acquisition and filtering, integrated simulations, data analysis and visualization | 2024.06         |
+| [MicroGPT](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00074a)                          | GPT-4                     | -                                          | 2024.05         |
+| [ChatGPT Research Group](https://pubs.acs.org/doi/10.1021/acscentsci.3c01087)            | GPT-4                     | Synthesis conditions extraction, code generation, research planning, and procedural guidance | 2023.11         |
+| [GPT-Lab](https://arxiv.org/abs/2309.16721)                           | GPT-4                     | Requirements analysis, literature retrieval, text mining, human researcher feedback, experiment execution | 2023.09         |
+| [AtomAgents](https://arxiv.org/html/2407.10022v1)                        | GPT-4                     | Automatic robotic experiments              | 2023.07         |
+| [CREST](https://chemrxiv.org/engage/chemrxiv/article-details/64a81dcd6e1c4c986bf83225)                             | GPT-3.5                   | -                                          | 2023.07         |
+| [GPT-4 Reticular Chemist](https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983)           | GPT-4                     | Project overview, progress summary, propose task choices, evaluation | 2023.06         |
+| [ChemCrow](https://www.nature.com/articles/s42256-024-00832-8)                          | GPT-4                     | Synthesis execution                        | 2023.04         |
+| [Coscientist](https://www.nature.com/articles/s41586-023-06792-0)                       | GPT-4                     | Web and documentation search, code execution | 2023.03         |
 
 
 
