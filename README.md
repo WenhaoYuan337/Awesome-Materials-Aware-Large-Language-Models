@@ -55,12 +55,12 @@
 
 | **Name**                          | **Models**                | **Material Types**                         | **Release Date** |
 |-----------------------------------|---------------------------|--------------------------------------------|------------------|
-| SciQAG                            | vicuna-7b-v1.5-16k        | Question-answering                         | 2024.05         |
-| BatteryGPT                        | ChatGPT                   | Question-answering                         | 2024.03         |
-| MatKG                             | BERT                      | Knowledge graph                            | 2024.01         |
-| LitLLM                            | GPT-3.5, GPT-4            | Literature Review                          | 2023.12         |
-| PaperQA                           | GPT-3.5, GPT-4            | Question-answering                         | 2023.12         |
-| LitQA                             | GPT-3.5, GPT-4            | Question-answering                         | 2023.10         |
+| [SciQAG](https://arxiv.org/abs/2405.09939)                            | vicuna-7b-v1.5-16k        | Question-answering                         | 2024.05         |
+| [BatteryGPT](https://www.sciencedirect.com/science/article/pii/S2666386424000699?dgcid=rss_sd_all)                        | ChatGPT                   | Question-answering                         | 2024.03         |
+| [MatKG](https://www.nature.com/articles/s41597-024-03039-z)                             | BERT                      | Knowledge graph                            | 2024.01         |
+| [LitLLM](https://arxiv.org/abs/2402.01788)                            | GPT-3.5, GPT-4            | Literature Review                          | 2023.12         |
+| [PaperQA](https://arxiv.org/abs/2312.07559)                           | GPT-3.5, GPT-4            | Question-answering                         | 2023.12         |
+| [LitQA](https://arxiv.org/abs/2312.07559)                             | GPT-3.5, GPT-4            | Question-answering                         | 2023.10         |
 
 ---
 
