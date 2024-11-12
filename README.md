@@ -38,15 +38,15 @@
 | [ChatExtract](https://www.nature.com/articles/s41467-024-45914-8)                       | GPT-3.5, GPT-4            | High entropy alloys                        | 2023.03         |
 | [OpticalBERT](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01259)                       | BERT                      | Optical                                    | 2023.03         |
 | [BatteryDataExtractor](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d2sc04322j)              | BERT                      | Battery                                    | 2022.09         |
-| MaterialsBERT                     | BERT                      | Polymer                                    | 2022.09         |
-| BatteryBERT                       | BERT                      | Battery                                    | 2022.05         |
-| MatBERT                           | BERT                      | Solid-state, doped semiconductors, gold nanoparticle | 2022.04 |
-| MatSciBERT                        | BERT                      | Solid oxide fuel cells                     | 2021.09         |
-| ChemRxnExtractor                  | BERT                      | Chemical Reaction                          | 2021.06         |
-| ChemBERT                          | BERT                      | Chemical Reaction                          | 2021.06         |
-| RXNMapper                         | Transformer               | Chemical reactions                         | 2021.04         |
-| RXN4Chemistry                     | Transformer               | Chemical reactions                         | 2019.12         |
-| SciBERT                           | BERT                      | General scientific text                    | 2019.03         |
+| [MaterialsBERT](https://www.nature.com/articles/s41524-023-01003-w)                     | BERT                      | Polymer                                    | 2022.09         |
+| [BatteryBERT](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00035)                       | BERT                      | Battery                                    | 2022.05         |
+| [MatBERT](https://www.sciencedirect.com/science/article/pii/S2666389922000733)                           | BERT                      | Solid-state, doped semiconductors, gold nanoparticle | 2022.04 |
+| [MatSciBERT](https://www.nature.com/articles/s41524-022-00784-w)                        | BERT                      | Solid oxide fuel cells                     | 2021.09         |
+| [ChemRxnExtractor](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284)                  | BERT                      | Chemical Reaction                          | 2021.06         |
+| [ChemBERT](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284)                          | BERT                      | Chemical Reaction                          | 2021.06         |
+| [RXNMapper](https://github.com/rxn4chemistry/rxnmapper)                         | Transformer               | Chemical reactions                         | 2021.04         |
+| [RXN4Chemistry](https://github.com/rxn4chemistry/rxn4chemistry)                     | Transformer               | Chemical reactions                         | 2019.12         |
+| [SciBERT](https://arxiv.org/abs/1903.10676)                           | BERT                      | General scientific text                    | 2019.03         |
 
 ---
 
