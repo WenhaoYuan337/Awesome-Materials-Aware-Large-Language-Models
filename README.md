@@ -1,9 +1,9 @@
 # Awesome - Materials-Aware Large Language Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-**Materials-Aware Large Language Models** (LLMs) are transforming the field of materials science by automating complex tasks traditionally reliant on human expertise. Leveraging advancements in AI, these models facilitate everything from data extraction and property prediction to inverse design, synthesis planning and self-driven labs. LLMs are now paving the way for autonomous materials discovery, enabling researchers to navigate and harness vast, diverse datasets with unprecedented accuracy and efficiency.
+**Materials-Aware Large Language Models** (LLMs) are transforming the field of materials science by automating complex tasks traditionally reliant on human expertise. Leveraging advancements in AI, these models facilitate everything from data extraction and property prediction to inverse design, synthesis planning and self-driven labs.
 
->  _Here, we provide a curated, non-exhaustive list of research papers that showcase the applications of LLMs in advancing materials science, particularly in enhancing data extraction, supporting predictive modeling, and driving autonomous experimentation._
+>  _Here, we provide a curated, non-exhaustive list of research papers that showcase the applications of LLMs in advancing materials science._
 
 
 ## 🌟 Introduction
