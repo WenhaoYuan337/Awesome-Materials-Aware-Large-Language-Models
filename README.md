@@ -2,5 +2,5 @@
 
 ## 🌟 Introduction
 
-<div align=center><img src="./assets/timeline.png" width="100%" /></div>
+<div align=center><img src="./assets/MatLLMs.jpg" width="100%" /></div>
 
