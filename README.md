@@ -159,6 +159,17 @@ _sort by date_
 
 If you find our work and this repository useful, please consider giving a star :star: and citation :beer::
 
+```
+@misc{yuan2024materials,
+      title={Materials-Aware Large Language Models as Enablers of Scaling Metadata Ontology and Autonomous Discovery}, 
+      author={Wenhao Yuan, Guangyao Chen, Zhilong Wang and Fengqi You},
+      year={2024},
+      note={Unpublished manuscript},
+      institution={Cornell University},
+      url={https://github.com/PEESEgroup/Awesome-Materials-Aware-Large-Language-Models}
+}
+```
+
 
 
 ### How to Contribute
