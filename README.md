@@ -69,29 +69,29 @@
 
 | **Name**                          | **Models**                | **Material Types**                         | **Release Date** |
 |-----------------------------------|---------------------------|--------------------------------------------|------------------|
-| MolecularGPT                      | T5                        | Organic molecule                           | 2024.06         |
-| ChatMOF                           | GPT-4, GPT-3.5            | MOF                                        | 2024.06         |
-| ChemLLM                           | InternLM2-Base-7B         | Organic molecule                           | 2024.04         |
-| AlloyBERT                         | RoBERTa                   | Alloy                                      | 2024.03         |
-| CrystalLLM                        | LLaMA-2 70B               | Inorganic                                  | 2024.02         |
-| GPTChem                           | GPT-3                     | Organic molecule                           | 2024.02         |
-| LLaMP                             | GPT-3.5, GPT-4            | Crystal                                    | 2024.01         |
-| PolyNC                            | T5                        | Polymer                                    | 2023.12         |
-| FG-BERT                           | BERT                      | Organic molecule                           | 2023.11         |
-| LLM-Prop                          | T5                        | Crystalline Solids                         | 2023.10         |
-| GPT-MolBERTa                      | BERT, RoBERTa             | Organic molecule                           | 2023.09         |
-| CatBERTa                          | RoBERTa                   | Catalyst                                   | 2023.09         |
-| DARWIN                            | LLaMA-7B                  | Thermoelectric                             | 2023.08         |
-| GIMLET                            | T5                        | Thermoelectric                             | 2023.08         |
-| MolRoPE-BERT                      | T5                        | Organic molecule                           | 2023.07         |
+| [MolecularGPT](https://arxiv.org/abs/2406.12950)                      | T5                        | Organic molecule                           | 2024.06         |
+| [ChatMOF](https://www.nature.com/articles/s41467-024-48998-4)                           | GPT-4, GPT-3.5            | MOF                                        | 2024.06         |
+| [ChemLLM](https://arxiv.org/abs/2402.06852)                           | InternLM2-Base-7B         | Organic molecule                           | 2024.04         |
+| [AlloyBERT](https://arxiv.org/abs/2403.19783)                         | RoBERTa                   | Alloy                                      | 2024.03         |
+| [CrystalLLM (Gruver et al.)](https://arxiv.org/abs/2402.04379)                        | LLaMA-2 70B               | Inorganic                                  | 2024.02         |
+| [GPTChem](https://www.nature.com/articles/s42256-023-00788-1)                           | GPT-3                     | Organic molecule                           | 2024.02         |
+| [LLaMP](https://arxiv.org/abs/2401.17244)                             | GPT-3.5, GPT-4            | Crystal                                    | 2024.01         |
+| [PolyNC](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc05079c)                            | T5                        | Polymer                                    | 2023.12         |
+| [FG-BERT](https://academic.oup.com/bib/article/24/6/bbad398/7337693)                           | BERT                      | Organic molecule                           | 2023.11         |
+| [LLM-Prop](https://arxiv.org/abs/2310.14029)                          | T5                        | Crystalline Solids                         | 2023.10         |
+| [GPT-MolBERTa](https://arxiv.org/abs/2310.03030)                      | BERT, RoBERTa             | Organic molecule                           | 2023.09         |
+| [CatBERTa](https://pubs.acs.org/doi/10.1021/acscatal.3c04956)                          | RoBERTa                   | Catalyst                                   | 2023.09         |
+| [DARWIN](https://arxiv.org/abs/2308.13565)                            | LLaMA-7B                  | Thermoelectric                             | 2023.08         |
+| [GIMLET](https://arxiv.org/abs/2306.13089)                            | T5                        | Thermoelectric                             | 2023.08         |
+| [MolRoPE-BERT](https://www.sciencedirect.com/science/article/pii/S1093326322002236)                      | T5                        | Organic molecule                           | 2023.07         |
 | BERTOS                            | BERT                      | Inorganic                                  | 2022.11         |
-| SolvBERT                          | BERT                      | Solvent                                    | 2022.10         |
-| PolyBERT                          | DeBERTa                   | Polymer                                    | 2022.09         |
-| ChemBERTa                         | RoBERTa                   | Organic molecule                           | 2022.08         |
-| ChemGPT                           | GPT-Neo                   | Organic molecule                           | 2022.05         |
-| Mol-BERT                          | BERT                      | Organic molecule                           | 2022.05         |
-| ChemBERTa                         | RoBERTa                   | Organic molecule                           | 2022.03         |
-| SMILES-BERT                       | BERT                      | RT                                         | 2019.09         |
+| [SolvBERT](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00107a)                          | BERT                      | Solvent                                    | 2022.10         |
+| [PolyBERT](https://www.nature.com/articles/s41467-023-39868-6)                          | DeBERTa                   | Polymer                                    | 2022.09         |
+| [ChemBERTa](https://arxiv.org/abs/2010.09885)                         | RoBERTa                   | Organic molecule                           | 2022.08         |
+| [ChemGPT](https://www.nature.com/articles/s42256-023-00740-3)                           | GPT-Neo                   | Organic molecule                           | 2022.05         |
+| [Mol-BERT](https://onlinelibrary.wiley.com/doi/10.1155/2021/7181815)                          | BERT                      | Organic molecule                           | 2022.05         |
+| [ChemBERTa](https://arxiv.org/abs/2010.09885)                         | RoBERTa                   | Organic molecule                           | 2022.03         |
+| [SMILES-BERT](https://github.com/uta-smile/SMILES-BERT)                       | BERT                      | RT                                         | 2019.09         |
 
 ---
 
